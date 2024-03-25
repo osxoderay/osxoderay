@@ -1,4 +1,3 @@
-
 <!--
 **osxoderay/osxoderay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![MasterHead](https://github.blog/wp-content/uploads/2023/01/100MDevs_Blog_1200x627_v3.gif?fit=1200%2C627)]
+[![MasterHead](https://github.blog/wp-content/uploads/2023/01/100MDevs_Blog_1200x627_v3.gif?fit=1200%2C627)]()
 
 # About me 
 <h1 align="center">Hi 👋, I'm Oderay !</h1>
