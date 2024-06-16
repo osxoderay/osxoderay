@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ---
 - ❓ Pronouns: she/her
 
-- 🌱 I’m currently learning **Full Stack programming + Cybersecurity**
+- 🌱 I’m currently learning **Full Stack programming**
 
 - 💬 Ask me about **anything!**
 
